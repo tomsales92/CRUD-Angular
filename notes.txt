@@ -4,3 +4,8 @@ ng new frontend --minimal
 
 1 - ng add @angular/material - Material Design 
 2 - ng g c components/template/header
+
+### Anotações ###
+ - Aula Elementos angular#01 - 14 min
+
+ Directives - Altera aparencia e Altera comportamento(Estrutural *)

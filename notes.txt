@@ -9,3 +9,7 @@ ng new frontend --minimal
  - Aula Elementos angular#01 - 14 min
 
  Directives - Altera aparencia e Altera comportamento(Estrutural *)
+
+ Criação de Diretivas
+
+ng g d directives/red

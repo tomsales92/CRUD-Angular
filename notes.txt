@@ -10,6 +10,4 @@ ng new frontend --minimal
 
  Directives - Altera aparencia e Altera comportamento(Estrutural *)
 
- Criação de Diretivas
-
-ng g d directives/red
+ 

@@ -7,6 +7,7 @@ ng new frontend --minimal
 
 ### Anotações ###
  - Aula Elementos angular#01 - 14 min
+ - Entendendo component gerado - 5 min
 
  Directives - Altera aparencia e Altera comportamento(Estrutural *)
 

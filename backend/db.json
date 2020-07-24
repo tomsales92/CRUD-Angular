@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "1.50"
     },
     {
       "id": 2,
@@ -36,8 +36,8 @@
       "id": 7
     },
     {
-      "name": "Veio do formulário",
-      "price": "20,20",
+      "name": "Xbox",
+      "price": "654.58",
       "id": 8
     }
   ]

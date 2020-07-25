@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "12000.90"
     },
     {
       "id": 3,
@@ -22,23 +22,13 @@
     },
     {
       "name": "Geladeira",
-      "price": 1913.99,
+      "price": "1913.99",
       "id": 5
     },
     {
-      "name": "Produto de Teste",
-      "price": 125.98,
+      "name": "Teclado",
+      "price": "150.00",
       "id": 6
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 125.98,
-      "id": 7
-    },
-    {
-      "name": "Xbox",
-      "price": "654.58",
-      "id": 8
     }
   ]
 }
